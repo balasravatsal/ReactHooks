@@ -1,17 +1,11 @@
-import Starter from "./tutorial/03-conditional-rendering/starter/02-multiple-returns-fetch-data.jsx"
+import Starter from "./tutorial/06-forms/starter/03-multiple-inputs";
 
 function App() {
-    return (
-        <div className='container'>
-            <Starter />
-        </div>
-    );
+  return (
+    <div className="container">
+      <Starter />
+    </div>
+  );
 }
 
-
 export default App;
-
-
-
-
-
