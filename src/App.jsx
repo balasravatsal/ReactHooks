@@ -1,5 +1,5 @@
-import Starter from "./tutorial/07-useRef/starter/01-useRef-basics"
-// import Final from "./tutorial/06-forms/final/04-other-inputs";
+import Starter from "./tutorial/09-context-api/starter/Navbar"
+import Final from "./tutorial/09-context-api/final/context/Navbar"
 
 function App() {
 return (
