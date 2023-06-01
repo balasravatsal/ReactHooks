@@ -1,5 +1,5 @@
-import Starter from "./tutorial/06-forms/starter/01-controlled-inputs";
-// import Final from "./tutorial/06-forms/final/01-controlled-inputs";
+import Starter from "./tutorial/06-forms/starter/04-other-inputs"
+// import Final from "./tutorial/06-forms/final/04-other-inputs";
 
 function App() {
   return (
