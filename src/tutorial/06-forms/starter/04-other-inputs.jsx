@@ -4,6 +4,8 @@ const OtherInputs = () => {
   const [shipping, setShipping] = useState(false);
   const [framework, setFramework] = useState("");
 
+
+  
   const handleChange = (e) => {
     setShipping(e.target.checked);
   };
